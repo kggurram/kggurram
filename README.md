@@ -24,7 +24,6 @@ I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currentl
 		>> Maybe I should repo them...
 
 ## Everyone loves stats... here's some of mine :chart_with_upwards_trend:
-### GitHub :books:
 <div  class="container"  style="display: flex; height: 100px;">
 	<!---
 	<a href="https://github.com/kggurram/">
