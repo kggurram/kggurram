@@ -11,18 +11,30 @@ I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currentl
 
 - Website: <i> coming soon </i>:pray:
 
+## Currently working on... :zzz:
+
+- [ ] R2-D2
+	> Finishing up
+- [ ] Personal Website
+	> HTML, CSS, Jekyll
+- [ ] ML Project
+	> SHHH, it's a secret!
+- [x] Python Scripts
+	> I love to automate and code random algorithms that come to mind
+		>> Maybe I should repo them...
+
 ## Everyone loves stats... here's some of mine :chart_with_upwards_trend:
 ### GitHub :books:
 <div  class="container"  style="display: flex; height: 100px;">
+	<!---
 	<a href="https://github.com/kggurram/">
 		 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kggurram&hide=cmake,makefile&theme=nord" />
 	</a>
+	-->
 	<a href="https://github.com/kggurram/">
-		  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kggurram&theme=nord&show_icons=true&line_height=27&count_private=true" alt="Karthik's GitHub Stats" />
+		  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kggurram&hide=prs,issues&theme=nord&show_icons=true&line_height=27&count_private=true" alt="Karthik's GitHub Stats" />
 	</a>
 </div>
-
-### Time is of the essence :hourglass_flowing_sand:
 <div  style="width: 50%;">
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kggurram" align= "center" style="width:100%">
 </div>
