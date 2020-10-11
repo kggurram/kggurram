@@ -24,23 +24,18 @@ Here's my [![LinkedIn][1.2]][1] and [![Twitter][2.2]][2] !
 
 ## Currently working on... :zzz:
 
-- [ ] R2-D2
-	> Finishing up
-- [ ] Personal Website
-	> HTML, CSS, Jekyll
-- [ ] ML Project
-	> SHHH, it's a secret!
-- [x] Python Scripts
-	> I love to automate and code random algorithms that come to mind
-		>> Maybe I should repo them...
+- R2-D2
+	- _Finishing up_
+- Personal Website
+	- _HTML, CSS, Jekyll_
+- ML Project
+	- _:eyes:_
+- Python Scripts
+	- _love to automate and code random algorithms that come to mind_
 
+<!-->
 ## Everyone loves stats... here are some of mine :chart_with_upwards_trend:
 <div  class="container"  style="display: flex; height: 100px;">
-	<!---
-	<a href="https://github.com/kggurram/">
-		 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kggurram&hide=cmake,makefile&theme=nord" />
-	</a>
-	-->
 	<a href="https://github.com/kggurram/">
 		  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kggurram&hide=prs,issues&theme=nord&show_icons=true&line_height=27&count_private=true" alt="Karthik's GitHub Stats" />
 	</a>
@@ -48,6 +43,7 @@ Here's my [![LinkedIn][1.2]][1] and [![Twitter][2.2]][2] !
 <div  style="width: 50%;">
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kggurram" align= "center" style="width:100%">
 </div>
+<!-->
 
 ## Repos I'm proud of :fire:
 
