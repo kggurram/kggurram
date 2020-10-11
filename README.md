@@ -50,9 +50,8 @@ Here's my [![LinkedIn][1.2]][1] and [![Twitter][2.2]][2] !
 </div>
 
 ## Repos I'm proud of :fire:
-<div  style="width: 50%;">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kggurram&repo=R2-D2&theme=nord" align= "center" style="width:100%">
-</div>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kggurram&repo=R2-D2&theme=nord)](https://github.com/kggurram/R2-D2)
 
 #### _Lots of ideas in development, coming soon!_
 ---
