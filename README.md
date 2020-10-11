@@ -5,11 +5,22 @@ I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currentl
 
 ## Want to get in touch? :speech_balloon:
 
--  <a  href="https://www.linkedin.com/in/kggurram/">Linkedin</a>
+Here's my [![LinkedIn][1.2]][1] and [![Twitter][2.2]][2] !
 
--  <a  href="https://twitter.com/kggurram">Twitter</a>
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[2.2]: http://i.imgur.com/wWzX9uB.png
+<!-->
+[3.2]: https://i.imgur.com/6e1BPKZ.png
+[4.2]: https://www.bambammusic.com.au/wp-content/uploads/2018/09/Instagram-icon-small-2.png
+<!-->
+[1]: https://www.linkedin.com/in/kggurram/
+[2]: https://twitter.com/kggurram/
+<!-->
+[3]: https://www.facebook.com/kggurram/
+[4]: https://instagram.com/karthik.gurram/
+<!-->
 
-- Website: <i> coming soon </i>:pray:
+**Website: <i> coming soon </i>:pray:**
 
 ## Currently working on... :zzz:
 
@@ -23,7 +34,7 @@ I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currentl
 	> I love to automate and code random algorithms that come to mind
 		>> Maybe I should repo them...
 
-## Everyone loves stats... here's some of mine :chart_with_upwards_trend:
+## Everyone loves stats... here are some of mine :chart_with_upwards_trend:
 <div  class="container"  style="display: flex; height: 100px;">
 	<!---
 	<a href="https://github.com/kggurram/">
