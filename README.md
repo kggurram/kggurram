@@ -34,15 +34,15 @@ Here's my [![LinkedIn][1.2]][1] and [![Twitter][2.2]][2] !
 	- _love to automate and code random algorithms that come to mind_
 
 <!-->
-## Everyone loves stats... here are some of mine :chart_with_upwards_trend:
-<div  class="container"  style="display: flex; height: 100px;">
-	<a href="https://github.com/kggurram/">
-		  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kggurram&hide=prs,issues&theme=nord&show_icons=true&line_height=27&count_private=true" alt="Karthik's GitHub Stats" />
-	</a>
-</div>
-<div  style="width: 50%;">
+	## Everyone loves stats... here are some of mine :chart_with_upwards_trend:
+	<div  class="container"  style="display: flex; height: 100px;">
+		<a href="https://github.com/kggurram/">
+		  	<img align="left" src="https://github-readme-stats.vercel.app/api?username=kggurram&hide=prs,issues&theme=nord&show_icons=true&line_height=27&count_private=true" alt="Karthik's GitHub Stats" />
+		</a>
+	</div>
+	<div  style="width: 50%;">
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kggurram" align= "center" style="width:100%">
-</div>
+	</div>
 <!-->
 
 ## Repos I'm proud of :fire:
