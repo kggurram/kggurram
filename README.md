@@ -1,10 +1,10 @@
 <h1 align='center'><b>Hey </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"><b>,</b></h1>
 
-I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currently studying at Ryerson University, Toronto. I love to develop random, fun ideas that come to mind with **Python, Java, JavaScript, NodeJS** and more.
+I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currently studying at Ryerson University, Toronto. I love to develop random, fun ideas that come to mind with **Python, Java, JavaScript, NodeJS** and more. I pursue interest in mathematical visualization, web development, scripts, and big solutions to big problems. That's enough out of me, feel free to tell me about youself!
 
-## Want to get in touch? :speech_balloon:
+### Want to get in touch? :speech_balloon:
 
-Here's my [![LinkedIn][1.2]][1] and [![Twitter][2.2]][2] !
+Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [2.2]: http://i.imgur.com/wWzX9uB.png
@@ -21,21 +21,23 @@ Here's my [![LinkedIn][1.2]][1] and [![Twitter][2.2]][2] !
 
 **Website: <i> coming soon </i>:pray:**
 
+<!--
 ## Currently working on... :zzz:
 
 <dl>
-  <dt>R2-D2</dt>
-  <dd> Finishing up</dd>
+	<dt>R2-D2</dt>
+	<dd> Finishing up</dd>
 
-  <dt>Personal Website</dt>
-  <dd>HTML, CSS, Jekyll</dd>
+	<dt>Personal Website</dt>
+	<dd>HTML, CSS, Jekyll</dd>
 
-  <dt>ML Project</dt>
-  <dd>&#128064</dd>
+	<dt>ML Project</dt>
+	<dd>&#128064</dd>
 
-  <dt>Python Scripts</dt>
-  <dd>I love to automate and code random algorithms that come to mind</dd>
-</dl>
+	<dt>Python Scripts</dt>
+	<dd>I love to automate and code random algorithms that come to mind</dd>
+	</dl>
+-->
 
 <!--
 	## Everyone loves stats... here are some of mine :chart_with_upwards_trend:
@@ -48,12 +50,13 @@ Here's my [![LinkedIn][1.2]][1] and [![Twitter][2.2]][2] !
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kggurram" align= "center" style="width:100%">
 	</div>
 -->
+<!--
+	## Repos I'm proud of :fire:
 
-## Repos I'm proud of :fire:
+	[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kggurram&repo=R2-D2&theme=nord)](https://github.com/kggurram/R2-D2)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kggurram&repo=R2-D2&theme=nord)](https://github.com/kggurram/R2-D2)
-
-#### _Lots of ideas in development, coming soon!_
+	#### _Lots of ideas in development, coming soon!_
+-->
 ---
 <h3  align='center'><i>Thanks for stopping by!</i></h3>
 
