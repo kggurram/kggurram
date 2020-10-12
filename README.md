@@ -33,7 +33,7 @@ Here's my [![LinkedIn][1.2]][1] and [![Twitter][2.2]][2] !
 - Python Scripts
 	- _love to automate and code random algorithms that come to mind_
 
-<!-->
+<!--
 	## Everyone loves stats... here are some of mine :chart_with_upwards_trend:
 	<div  class="container"  style="display: flex; height: 100px;">
 		<a href="https://github.com/kggurram/">
@@ -43,7 +43,7 @@ Here's my [![LinkedIn][1.2]][1] and [![Twitter][2.2]][2] !
 	<div  style="width: 50%;">
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kggurram" align= "center" style="width:100%">
 	</div>
-<!-->
+-->
 
 ## Repos I'm proud of :fire:
 
