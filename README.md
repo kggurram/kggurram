@@ -24,14 +24,19 @@ Here's my [![LinkedIn][1.2]][1] and [![Twitter][2.2]][2] !
 
 ## Currently working on... :zzz:
 
-- R2-D2
-	- _Finishing up_
-- Personal Website
-	- _HTML, CSS, Jekyll_
-- ML Project
-	- _:eyes:_
-- Python Scripts
-	- _love to automate and code random algorithms that come to mind_
+<dl>
+  <dt>R2-D2</dt>
+  <dd> Finishing up</dd>
+
+  <dt>Personal Website</dt>
+  <dd>HTML, CSS, Jekyll</dd>
+
+  <dt>ML Project</dt>
+  <dd>&#128064</dd>
+
+  <dt>Python Scripts</dt>
+  <dd>I love to automate and code random algorithms that come to mind</dd>
+</dl>
 
 <!--
 	## Everyone loves stats... here are some of mine :chart_with_upwards_trend:
