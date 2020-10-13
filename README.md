@@ -1,6 +1,6 @@
 <h1 align='center'><b>Hey </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"><b>,</b></h1>
 
-I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currently studying at Ryerson University, Toronto. I love to develop random, fun ideas that come to mind with **Python, Java, JavaScript, NodeJS** and more. I pursue interest in mathematical visualization, web development, scripts, and big solutions to big problems. That's enough out of me, feel free to tell me about youself!
+I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currently studying at Ryerson University, Toronto. I love to develop random, fun ideas that come to mind with **![](https://img.shields.io/badge/Python-lightgrey?logo=python&style=flat-square) , ![](https://img.shields.io/badge/Java-lightgrey?logo=java&style=flat-square) , ![](https://img.shields.io/badge/JavaScript-lightgrey?logo=javascript&style=flat-square) , ![](https://img.shields.io/badge/NodeJS-lightgrey?logo=node.js&style=flat-square) ,** and more. I pursue interest in mathematical visualization, web development, scripts, and big solutions to big problems. That's enough out of me, feel free to tell me about youself!
 
 ### Want to get in touch? :speech_balloon:
 
@@ -58,6 +58,6 @@ Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 	#### _Lots of ideas in development, coming soon!_
 -->
 ---
-<h3  align='center'><i>Thanks for stopping by!</i></h3>
+<h3  align='center'><i>be creative.</i></h3>
 
 > Simplicity is prerequisite for reliability - Edsger W. Dijkstra
