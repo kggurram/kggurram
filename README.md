@@ -1,4 +1,4 @@
-<h1 align='center'><b>Hey </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"><b>,</b></h1>
+<h1 align='center'><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"><b>,</b></h1>
 
 I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currently studying at Ryerson University, Toronto. I love to develop random, fun ideas that come to mind with **![](https://img.shields.io/badge/Python-grey?logo=python&style=flat-square) , ![](https://img.shields.io/badge/Java-grey?logo=java&style=flat-square) , ![](https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=flat-square) , ![](https://img.shields.io/badge/HTML-grey?logo=html5&style=flat-square) , ![](https://img.shields.io/badge/CSS-grey?logo=css3&style=flat-square)** and more. I pursue interest in mathematical visualization, web development, scripts, and big solutions to big problems. That's enough out of me, feel free to tell me about youself!
 
