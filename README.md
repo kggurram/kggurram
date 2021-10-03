@@ -2,18 +2,18 @@
 
 I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currently studying at Ryerson University, Toronto. I love to develop random, fun ideas that come to mind with **![](https://img.shields.io/badge/Python-grey?logo=python&style=flat-square) , ![](https://img.shields.io/badge/Java-grey?logo=java&style=flat-square) , ![](https://img.shields.io/badge/HTML-grey?logo=html5&style=flat-square) , ![](https://img.shields.io/badge/CSS-grey?logo=css3&style=flat-square) , ![](https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=flat-square)** and more. I pursue interest in mathematical visualization, web development, scripts, and big solutions to big problems. Feel free to tell me about youself!
 
-### Want to get in touch? :speech_balloon:
+<!-- ### Want to get in touch? :speech_balloon:
 
 Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[2.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: http://i.imgur.com/wWzX9uB.png -->
 <!-->
 [3.2]: https://i.imgur.com/6e1BPKZ.png
 [4.2]: https://www.bambammusic.com.au/wp-content/uploads/2018/09/Instagram-icon-small-2.png
 <!-->
-[1]: https://www.linkedin.com/in/kggurram/
-[2]: https://twitter.com/kggurram/
+<!-- [1]: https://www.linkedin.com/in/kggurram/
+[2]: https://twitter.com/kggurram/ -->
 <!-->
 [3]: https://www.facebook.com/kggurram/
 [4]: https://instagram.com/karthik.gurram/
@@ -58,6 +58,6 @@ Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 	#### _Lots of ideas in development, coming soon!_
 -->
 ---
-<h3  align='center'><i>be creative.</i></h3>
+<!-- <h3  align='center'><i>be creative.</i></h3> -->
 
 > Simplicity is prerequisite for reliability - Edsger W. Dijkstra
