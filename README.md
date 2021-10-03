@@ -1,6 +1,6 @@
 <h1 align='center'><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
 
-I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currently studying at Ryerson University, Toronto. I love to develop random, fun ideas that come to mind with **![](https://img.shields.io/badge/Python-grey?logo=python&style=flat-square) , ![](https://img.shields.io/badge/Java-grey?logo=java&style=flat-square) , ![](https://img.shields.io/badge/HTML-grey?logo=html5&style=flat-square) , ![](https://img.shields.io/badge/CSS-grey?logo=css3&style=flat-square) , ![](https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=flat-square)** and more. I pursue interest in mathematical visualization, web development, scripts, and big solutions to big problems. Feel free to tell me about youself!
+I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currently studying at Ryerson University, Toronto. I love to develop random, fun ideas that come to mind with various amazing languages and technologies. I pursue interest in mathematical visualization, web development, scripts, and big solutions to big problems. Feel free to tell me about youself!
 
 <!-- ### Want to get in touch? :speech_balloon:
 
@@ -19,7 +19,7 @@ Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 [4]: https://instagram.com/karthik.gurram/
 <!-->
 
-**Website: <i> coming soon </i>:pray:**
+<!-- **Website: <i> coming soon </i>:pray:** -->
 
 <!--
 ## Currently working on... :zzz:
