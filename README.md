@@ -1,4 +1,4 @@
-<h1 align='center'>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
+<h1 align='center'><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
 
 I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currently studying at Ryerson University, Toronto. I love to develop random, fun ideas that come to mind with various amazing languages and technologies. I pursue interest in mathematical visualization, web development, scripts, and big solutions to big problems. Feel free to tell me about youself!
 
