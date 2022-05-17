@@ -75,6 +75,6 @@ Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 - 🏢 I'm currently messing with **Web Dev & Machine Learning** projects, and a little bit of **iOS**
 - ⚙️ I use daily: `.py`, `.js/tsx/jsx`, `.html`, `.css`, `.psd`, `.ai`
 - 🌱 Learning about **Open Source**
-- 📫 Reach me: [kgurram.tech](https://www.kgurram.tech)
+- 🔗 [kgurram.tech](https://www.kgurram.tech)
 <!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 <!-- - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking** -->
