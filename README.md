@@ -72,11 +72,9 @@ Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 - 🇵🇹 Planing the "Tuga-Co-Op";
 - 🍑 What about this? -->
 
-##### BIO
-
 - 🏢 I'm currently working on **Web Dev & Machine Learning** projects
 - ⚙️ I use daily: `.py`, `.js/tsx/jsx`, `.html`, `.css`, `.psd`, `.ai`
-- 🌱 Learning all about **Open Source**
-- 📫 Reach me: [linkedin/kggurram](https://www.linkedin.com/in/kggurram/)
+- 🌱 Learning about **Open Source**
+- 📫 Reach me: [kgurram.tech](https://www.kgurram.tech)
 <!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 <!-- - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking** -->
