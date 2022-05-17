@@ -1,6 +1,6 @@
-<h1 align='center'><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
+<!-- <h1 align='center'><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
 
-I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currently studying at Ryerson University, Toronto. I love to develop random, fun ideas that come to mind with various amazing languages and technologies. I pursue interest in mathematical visualization, web development, scripts, and big solutions to big problems. Feel free to tell me about youself!
+I'm Karthik, a *Computer & Software Engineering* Undergraduate student, currently studying at Ryerson University, Toronto. I love to develop random, fun ideas that come to mind with various amazing languages and technologies. I pursue interest in mathematical visualization, web development, scripts, and big solutions to big problems. Feel free to tell me about youself! -->
 
 <!-- ### Want to get in touch? :speech_balloon:
 
@@ -60,4 +60,23 @@ Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 ---
 <!-- <h3  align='center'><i>be creative.</i></h3> -->
 
-> Simplicity is prerequisite for reliability - Edsger W. Dijkstra
+<!-- > Simplicity is prerequisite for reliability - Edsger W. Dijkstra -->
+
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">
+
+#### I'm a Software Engineer & student based in Toronto, Canada.
+
+<!-- ##### NOW
+
+- ✨ Crafted last [Laracon Online](https://laracon.net) website;
+- 🇵🇹 Planing the "Tuga-Co-Op";
+- 🍑 What about this? -->
+
+##### BIO
+
+- 🏢 I'm currently working on **Web Dev & Machine Learning** projects
+- ⚙️ I use daily: `.py`, `.js/tsx/jsx`, `.html`, `.css`, `.psd`, `.ai`
+<!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
+- 🌱 Learning all about **Open Source**
+<!-- - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking** -->
+- 📫 Reach me: [linkedin/kggurram](https://www.linkedin.com/in/kggurram/)
