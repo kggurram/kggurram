@@ -72,7 +72,7 @@ Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 - 🇵🇹 Planing the "Tuga-Co-Op";
 - 🍑 What about this? -->
 
-- 🏢 I'm currently messing with **Web Dev & Machine Learning** projects, and a little bit of **iOS**
+- 🏢 I'm currently messing with **Web Development & Machine Learning**, and a little bit of **iOS**
 - ⚙️ I use daily: `.py`, `.js/tsx/jsx`, `.html`, `.css`, `.psd`, `.ai`
 - 🌱 Learning about **Open Source**
 - 🔗 [kgurram.tech](https://www.kgurram.tech)
