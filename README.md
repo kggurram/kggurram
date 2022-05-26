@@ -62,7 +62,7 @@ Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 
 <!-- > Simplicity is prerequisite for reliability - Edsger W. Dijkstra -->
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">
 
 #### I'm a Software Engineer & student based in Toronto, Canada.
 
