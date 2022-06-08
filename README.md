@@ -73,9 +73,9 @@ Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 - 🇵🇹 Planing the "Tuga-Co-Op";
 - 🍑 What about this? -->
 
-- 🏢 I'm currently messing with **Web Development**, **Machine Learning**, and a little bit of **iOS**
+- 🏢 I'm currently developing my personal memex
 - ⚙️ I use daily: `.py`, `.js/tsx/jsx`, `.html`, `.css`, `.psd`, `.ai`
-- 🌱 Learning about **Open Source**
+- 🌱 Learning about **Open Source** & messing with **Web Dev**, **ML**, and some **iOS**
 - 🔗 [kgurram.tech](https://www.kgurram.tech)
 <!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 <!-- - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking** -->
