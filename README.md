@@ -73,7 +73,6 @@ Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 - 🇵🇹 Planing the "Tuga-Co-Op";
 - 🍑 What about this? -->
 
-- 🏢 I'm currently expanding my personal memex
 - ⚙️ I use daily: `.py`, `.js/tsx/jsx`, `.html`, `.css`, `.psd`, `.ai`
 - 🌱 Learning about **Open Source** & messing with **Web Development**, **ML**, and some **iOS**
 - 🔗 [kgurram.tech](https://www.kgurram.tech)
