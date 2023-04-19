@@ -62,10 +62,10 @@ Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 
 <!-- > Simplicity is prerequisite for reliability - Edsger W. Dijkstra -->
 
-### Hello, 
+<!-- ### Hello,  -->
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> -->
 
-#### I'm a Software Engineer & student based in Toronto, Canada.
+<!-- #### I'm a Software Engineer & student based in Toronto, Canada. -->
 
 <!-- ##### NOW
 
@@ -73,8 +73,19 @@ Linkedin, [![LinkedIn][1.2]][1] | Twitter, [![Twitter][2.2]][2]
 - 🇵🇹 Planing the "Tuga-Co-Op";
 - 🍑 What about this? -->
 
-- ⚙️ I use daily: `.py`, `.js/tsx/jsx`, `.html`, `.css`, `.psd`, `.ai`
-- 🌱 Learning about **Open Source** & messing with **Web Development**, **ML**, and some **iOS**
-- 🔗 [kgurram.tech](https://www.kgurram.tech)
+<!-- - ⚙️ I use daily: `.py`, `.js/tsx/jsx`, `.html`, `.css`, `.psd`, `.ai` -->
+<!-- - 🌱 Learning about **Open Source** & messing with **Web Development**, **ML**, and some **iOS** -->
+<!-- - 🔗 [kgurram.tech](https://www.kgurram.tech) -->
 <!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 <!-- - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking** -->
+
+               :                
+               ;                
+              :                 
+              ;                 
+             /                  
+           o/                   
+         ._/\___,                
+             \                  
+             /                   
+             `      
